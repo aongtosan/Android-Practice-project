@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ActionListener</string>
+    <string name="button1">button1</string>
+    <string name="button2">button2</string>
+    <string name="button3">button3</string>
+    <string name="your_name">Your name</string>
+    <string name="date_show">msg2 </string>
+    <string name="message_show">msg1 </string>
+</resources>
+
+

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">Assignment1</string>
+    <string name="app_name_th" translatable="false">งานได้รับมอบหมาย1</string>
+    <string name="sale" translatable="false">Sales</string>
+    <string name="sale_th" translatable="false">ยอดขาย</string>
+    <string name="percent" translatable="false">Percentage</string>
+    <string name="percent_th" translatable="false">ร้อยละส่วนแบ่ง</string>
+    <string name="net_sales" translatable="false">Net. Sales</string>
+    <string name="net_sales_th" translatable="false">ยอดขายหักส่วนแบ่ง</string>
+    <string name="Commission" translatable="false">Commission</string>
+    <string name="Commission_th" translatable="false">ส่วนแบ่งการขาย</string>
+    <string name="Calculate" translatable="false">Calculate</string>
+    <string name="Calculate_th" translatable="false">คำนวน</string>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">InputControls2</string>
+    <string name="msg">Hello</string>
+    <string name="switch_text">Switch </string>
+    <string name="change_date">Change Date</string>
+    <string name="change_time">Change Time</string>
+    <string name="on_text">On</string>
+    <string name="off_text">Off</string>
+    <string name="dropdown">dropdown</string>
+
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+</resources>

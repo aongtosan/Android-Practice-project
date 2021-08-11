@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment2_6109680295_6109680287</string>
+    <string name="siimsil">Siimsil - Music for Today</string>
+    <string name="shake_count">Shake Count :</string>
+    <string name="dark_night">Dark Night</string>
+    <string name="sightseeing">Sightseeing</string>
+    <string name="out_of_box">Out of box</string>
+    <string name="lighting">Lighting !</string>
+    <string name="heading_north">Heading North !</string>
+    <string name="in_pocket">In the Pocket !</string>
+</resources>

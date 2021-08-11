@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#3C280D"
+    android:gravity="center"
+    tools:context="com.example.inputcontrols2.MainActivity" >
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/msg"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp" />
+
+    <ToggleButton
+        android:id="@+id/toggleButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:onClick="onToggleClicked"
+        android:textOff="@string/off_text"
+        android:textOn="@string/on_text"
+        android:textAllCaps="false"
+        android:textSize="18sp" />
+
+    <ToggleButton
+        android:id="@+id/toggleButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:textOff="@string/off_text"
+        android:textOn="@string/on_text"
+        android:textAllCaps="false"
+        android:textSize="18sp" />
+
+    <androidx.appcompat.widget.SwitchCompat
+        android:id="@+id/switchButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/switch_text"
+        android:textAllCaps="false"
+        android:textColor="#DEDEDE"
+        android:textSize="24sp"
+        android:textOff="@string/off_text"
+        android:textOn="@string/on_text" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/spinner_background"
+        android:orientation="horizontal" >
+        <Spinner
+            android:id="@+id/planets_spinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="10"
+            android:layout_gravity="center"
+            android:background="@android:color/transparent"
+            android:layout_marginLeft="10dp"
+            android:spinnerMode="dropdown"
+            android:layout_marginStart="10dp" />
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:src="@drawable/drop"
+            android:contentDescription="@string/dropdown" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnChangeDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="@string/change_date"
+        android:background="@drawable/rounded_corner_button"
+        android:textAllCaps="false"
+        android:textColor="#DEDEDE"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/btnChangeTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="@string/change_time"
+        android:background="@drawable/rounded_corner_button"
+        android:textAllCaps="false"
+        android:textColor="#DEDEDE"
+        android:textSize="18sp" />
+
+</LinearLayout>

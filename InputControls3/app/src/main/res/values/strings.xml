@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InputControls3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="rating_word">Rate Me</string>
+    <string name="show_text">Show</string>
+    <string name="rating_score">Rating Score :</string>
+    <string name="pgbar_text">Progress Bar</string>
+</resources>

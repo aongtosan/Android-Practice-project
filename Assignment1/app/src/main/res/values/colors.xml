@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#535353</color>
+    <color name="colorPrimaryDark">#191919</color>
+    <color name="colorAccent">#212121</color>
+    <color name="default_his">#788287</color>
+    <color name="font_color">#ffffff</color>
+    <color name="Ais_color">#009473</color>
+    <color name="Dtac_color">#187bcd</color>
+    <color name="True_color">#FF3E20</color>
+</resources>

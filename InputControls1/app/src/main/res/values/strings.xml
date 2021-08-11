@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">InputControls1</string>
+    <string name="hi">Hi !</string>
+    <string name="meat">Meat</string>
+    <string name="cheese">Cheese</string>
+    <string name="pirates">Pirates</string>
+    <string name="ninjas">Ninjas</string>
+    <string name="conutry_name">Please fill in the country name</string>
+
+    <string-array name="countries_array">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>American Samoa</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Anguilla</item>
+        <item>Antarctica</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+        <item>Taiwan</item>
+        <item>Tajikistan</item>
+        <item>Tanzania</item>
+        <item>Thailand</item>
+        <item>Togo</item>
+        <item>Tonga</item>
+        <item>Trinidad and Tobago</item>
+        <item>Tunisia</item>
+        <item>Turkey</item>
+        <item>Turkmenistan</item>
+        <item>Tuvalu</item>
+    </string-array>
+</resources>

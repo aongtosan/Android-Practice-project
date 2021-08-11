@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Heroes">
+        <item>Anti-mage</item>
+        <item>Rublick</item>
+        <item>Invoker</item>
+        <item>Orge mage</item>
+        <item>Windranger</item>
+    </string-array>
+</resources>

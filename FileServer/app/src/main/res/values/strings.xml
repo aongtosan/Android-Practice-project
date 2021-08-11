@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FileServer</string>
+    <string name="upload">Upload File</string>
+    <string name="download">Download File</string>
+    <string name="err_title">มีข้อผิดพลาด</string>
+    <string name="submit_title">ผลการบันทึก</string>
+    <string name="submit_result">บันทึกสำเร็จ</string>
+</resources>

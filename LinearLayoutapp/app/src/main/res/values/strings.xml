@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Linear Layout app</string>
+    <string name="setting">setting</string>
+    <string name="Menu">MENU</string>
+    <string name="Sub_Menu">Sub\nMenu</string>>
+    <string name="Nav_bar1">Nav-bar-1</string>
+    <string name="Nav_bar2">Nav-bar-2</string>
+    <string name="Content">Content</string>>
+</resources>

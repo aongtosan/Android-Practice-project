@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Storage</string>
+    <string name="text1_1">Msg 1_1</string>
+    <string name="text1_2">Msg 1_2</string>
+    <string name="text2">Msg 2</string>
+    <string name="text3">Msg 3</string>
+    <string name="read">Read</string>
+    <string name="write">write</string>
+</resources>
