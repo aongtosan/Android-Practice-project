@@ -1,4 +1,0 @@
-include ':app'
-rootProject.name = "runningtester"
-include(':unityLibrary')
-project(':unityLibrary').projectDir=new File('..\\flappy\\unityLibrary')
